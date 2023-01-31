@@ -12,11 +12,11 @@ Por ese motivo, también se ha priorizado la hora del día en el que ocurrió el
 Además, se ha hecho especial incapié en limpiar la categoría de edades y especie de tiburón para categorizar de mayor medida nuestro analisis y determinar si distintos tiburones tienen preferencia por distintos grupos de edades.
 
 
-##Limpieza de filas
+## Limpieza de filas
 
 Después de limpiar los títulos de las columnas, se identificó que un gran porcentaje de filas tenían por lo menos 21 de las 23 filas en nulo, por lo que se dropeo esas filas.
 
-##Limpieza de columnas
+## Limpieza de columnas
 
 ### Case Number
 
