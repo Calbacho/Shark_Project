@@ -22,7 +22,7 @@ Después de limpiar los títulos de las columnas, se identificó que un gran por
 
 He limpiado el dato nulo (revisando previamente las filas colindantes) y después he identificado esta columna como el índice de la tabla así que acabaré la limpieza convirtiendo esta columna en el index.
 
-###Date
+### Date
 
 He usado regex para separar el año, el mes y el día de case_number y formar una nueva celda de fecha, además de limpiar la columna year, y crear dos columnas más de mes y día.
 También se ha ejecutado considerable "limpieza de lupa" para maximizar la canidad de no-nulos en la tabla ya que nos interesa tener toda la columna de fecha con los máximos valores no nulos posibles.
